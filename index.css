@@ -5,7 +5,6 @@
 }
 
 body {
-    background-color: lawngreen;
     background-image: url(https://www.arkade.com.br/wp-content/uploads/2018/08/ps4_controller-700x439.jpg);
     display: flex;
     justify-content: center;
@@ -23,7 +22,6 @@ body {
 }
 
 button {
-    background-color: crimson;
     background-image: url(http://guiadecompras.casasbahia.com.br/imagens/2017/06/console-mais-vendido-historia.jpg);
     border-radius: 6px;
     padding: 15px;
